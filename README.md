@@ -1,7 +1,7 @@
 # Guinevere
 É um projeto de estudo que consiste em um controle financeiro simples com javascript puro.
 
-O principal objetivo do projeto é praticar semantica e boas praticas usando
+O principal objetivo do projeto é praticar semântica e boas práticas usando
 javascript puro.
 
 ## Referências
